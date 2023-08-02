@@ -1,0 +1,57 @@
+# jemdoc: menu{MENU}{publication.html}
+= Papers 
+[https://scholar.google.com/citations?user=hT1ZSUYAAAAJ&hl=en \[Google Scholar\]]
+
+*Preprints*
+
+. [https://arxiv.org/abs/2212.05155 Acela: Predictable Datacenter-level Maintenance Job Scheduling]  \n
+*Yi Ding*, Aijia Gao, Thibaud Ryden, Kaushik Mitra, Sukumar Kalmanje, Yanai Golany, Michael Carbin, Henry Hoffmann  \n
+. [https://arxiv.org/abs/2204.10451 SCOPE: Safe Exploration for Dynamic Computer Systems Optimization]  \n
+Hyunji Kim, Ahsan Pervaiz, Henry Hoffmann, Michael Carbin, *Yi Ding* \n
+. [https://arxiv.org/abs/2204.04831 Cello: Efficient Computer Systems Optimization with Predictive Early Termination and Censored Regression] \n
+*Yi Ding*, Alex Renda, Ahsan Pervaiz, Michael Carbin, Henry Hoffmann \n
+
+*Publications*
+
+. Turaco: Data Sampling for Training Neural Surrogates of Programs \n
+Alex Renda, *Yi Ding*, Michael Carbin \n
+Conditionally Accepted to OOPSLA 2023: The ACM SIGPLAN conference on Systems, Programming, Languages, and Applications. \n
+. [https://arxiv.org/abs/2202.12924 CAFQA: A Classical Simulation Bootstrap for Variational Quantum Algorithms] \n
+Gokul Ravi, Pranav Gokhale, *Yi Ding*, William Kirby, Kaitlin Smith, Peter Love, Kenneth Brown, Henry Hoffmann, Frederic Chong \n
+ASPLOS 2023: The 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems \n
+. [https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asac024/6581070?redirectedFrom=fulltext Minimax Designs for Causal Effects in Temporal Experiments with Treatment Habituation] [https://arxiv.org/abs/1908.03531 \[arXiv\]] \n
+Guillaume Basse, *Yi Ding*, Panos Toulis \n
+Biometrika, 2023 (*a top theoretical statistics journal*) \n
+. [https://arxiv.org/abs/2203.08339 NURD : Negative-Unlabeled Learning for Online Datacenter Straggler Prediction] [slides/MLSys2022-talk.pdf \[Slides\]] \n
+*Yi Ding*, Avinash Rao, Hyebin Song, Rebecca Willett, Henry Hoffmann \n
+MLSys 2022: The 5th Conference on Machine Learning and Systems \n
+. [https://arxiv.org/abs/2112.06148 Programming with Neural Surrogates of Programs] [https://www.youtube.com/watch?v=rM8SwKOBSeM \[Video\]] [https://github.com/psg-mit/programming-with-neural-surrogates-of-programs \[Code\]] \n
+Alex Renda, *Yi Ding*, Michael Carbin \n
+Onward! 2021: The ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software \n
+. [paper/FSE2021.pdf Generalizable and Interpretable Learning for Configuration Extrapolation] [https://www.youtube.com/watch?v=LzPncM_S4ak \[Video\]] \n
+*Yi Ding*, Ahsan Pervaiz, Michael Carbin, Henry Hoffmann \n
+ESEC/FSE 2021: The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering \n
+. [https://www.nature.com/articles/s42949-020-00005-7 Neighborhood Street Activity and Greenspace Usage Uniquely Contribute to Predicting Crime] [https://socialsciences.uchicago.edu/news/study-finds-street-activity-and-greenspace-usage-are-negatively-associated-crime \[Media\]] \n
+Kathryn E Schertz, James Saxon, Carlos Cardenas-Iniguez, Luís MA Bettencourt, *Yi Ding*, Henry Hoffmann, Marc G Berman \n
+npj Urban Sustainability, Nature Research Journal, 2021 \n
+. [https://proceedings.neurips.cc/paper/2020/hash/85c9f9efab89cee90a95cb98f15feacd-Abstract.html A Polynomial-time Algorithm for Learning Nonparametric Causal Graphs] [https://arxiv.org/abs/2006.11970 \[arXiv\]] [poster/NeurIPS2020_poster.pdf \[Poster\]] [https://github.com/MingGao97/NPVAR \[Code\]] \n
+Ming Gao, *Yi Ding*, Bryon Aragam \n
+NeurIPS 2020: The 34th Conference on Neural Information Processing Systems \n
+. [http://proceedings.mlr.press/v108/ding20a.html Dynamical Systems Theory for Causal Inference with Application to Synthetic Control Methods] [https://slideslive.com/38930121/dynamical-systems-theory-for-causal-inference-with-application-to-synthetic-control-methods?ref=account-folder-52123-folders \[Video\]] \n
+*Yi Ding*, Panos Toulis \n
+AISTATS 2020: The 23rd International Conference on Artificial Intelligence and Statistics \n
+. [paper/ISCA2019.pdf Generative and Multi–phase Learning for Computer Systems Optimization] [slides/ISCA2019-talk.pdf \[Slides\]] [https://www.youtube.com/watch?v=e51g5jgnj-w&t= \[Lightning Talk\]] [posters/ISCA2019_poster.pdf \[Poster\]] \n
+*Yi Ding*, Nikita Mishra, Henry Hoffmann \n
+ISCA 2019: The 46th International Symposium on Computer Architecture
+. [http://papers.nips.cc/paper/6964-multiresolution-kernel-approximation-for-gaussian-process-regression Multiresolution Kernel Approximation for Gaussian Process Regression] [https://arxiv.org/abs/1708.02183 \[arXiv\]] [https://www.youtube.com/watch?v=sV_NOVrKotA \[Spotlight Video\]] [poster/NIPS17_poster.pdf \[Poster\]] \n
+*Yi Ding*, Risi Kondor, Jonathan Eskreis-Winkler \n
+NeurIPS 2017, *Spotlight*: The 31st Conference on Neural Information Processing Systems \n
+. [paper/ICDM2017.pdf Large Scale Kernel Methods for Online AUC Maximization] \n
+*Yi Ding*, Chenghao Liu, Peilin Zhao, Steven CH Hoi \n
+ICDM 2017, *Long Oral*: The IEEE International Conference on Data Mining \n
+. [paper/AAAI2015.pdf An Adaptive Gradient Method for Online AUC Maximization] \n
+*Yi Ding*, Peilin Zhao, Steven CH Hoi, Yew-Soon Ong \n
+AAAI 2015, *Oral*: The 29th AAAI Conference on Artificial Intelligence \n
+. [paper/AAAI2014.pdf Learning Relative Similarity by Stochastic Dual Coordinate Ascent] \n
+Pengcheng Wu, *Yi Ding*, Peilin Zhao, Chunyan Miao, Steven CH Hoi \n
+AAAI 2014: The 28th AAAI Conference on Artificial Intelligence \n
