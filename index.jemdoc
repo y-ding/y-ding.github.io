@@ -1,9 +1,9 @@
 # jemdoc: menu{MENU}{index.html}
 = Yi Ding \n
-[~  A Machine Learning for Systems Researcher]
+[~  A Computer Systems Researcher]
 ~~~
 {}{img_left}{.\images\yiding.jpg}{alt text}{200px}{200px}{}
-*Yi Ding* (Starting from Fall 2023)\n
+*Yi Ding* \n
 Assistant Professor \n 
 [https://engineering.purdue.edu/ECE Elmore Family School of Electrical and Computer Engineering ] \n
 [https://www.purdue.edu/ Purdue University]  \n
@@ -18,11 +18,11 @@ I am an Assistant Professor of the [https://engineering.purdue.edu/ECE Elmore Fa
 My research interests are in the broad areas of *computer systems, computer architecture, and machine learning*, with a recent focus on *sustainable cloud computing, and causal inference for distributed systems*.
 
 == What is New? 
-*PhD hiring (2024 - 2025)*: I am looking for self-motivated Ph.D students who are devoted to research excellence or high-quality system building in *energy-efficient datacenters, sustainable cloud computing, and learning-based techniques for computer systems optimization*. If you are interested in working with me, please apply for [https://engineering.purdue.edu/ECE/Academics/Graduates/phd Purdue ECE PhD program] and mention my name in your application.
+*PhD hiring (2024 - 2025)*: I am looking for self-motivated Ph.D students who are devoted to research excellence or high-quality system building in *energy-efficient datacenters, sustainable cloud computing, and learning-based techniques for computer systems optimization*. If you are interested in working with me, please apply for [https://engineering.purdue.edu/ECE/Academics/Graduates/phd Purdue ECE PhD program] and mention my name in your application. 
 
-*To students at Purdue*: There are research opportunities on the intersection between computer systems and machine learning in my lab, through independent studies (undergrad, MS and PhD) and thesis options (MS and PhD). If you are interested, I would recommend you to have a quick look at my active research and recent publications first before contacting me.
+*To students at Purdue*: There are research opportunities on the intersection between computer systems and machine learning in my group, through independent studies (undergrad, MS and PhD) and thesis options (MS and PhD). If you are interested, I would recommend you to have a quick look at my active research and recent publications first before contacting me. To match the email filter, please include the magic word xyzzyx257 somewhere in your email body (not title). Otherwise, your email will not be read.
 
-- 2023-08-14: Join [https://engineering.purdue.edu/ECE Purdue ECE] as an Assistant Professor.
+- 2023-08-14: Joined [https://engineering.purdue.edu/ECE Purdue ECE] as an Assistant Professor.
 - 2022-08-16: Gave a talk at [https://fbresearchevents.bevylabs.com/events/details/facebook-research-meta-research-events-presents-infrastructure-data-science-faculty-workshop-at-kdd-2022/ Meta Infrastructure Data Science Faculty Workshop] at KDD 2022, DC.
 - 2022-06-16: [https://arxiv.org/abs/2202.12924 CAFQA] accepted to ASPLOS 2023. I introduced Bayesian optimization to search the Clifford ansatz efficiently for quantum accuracy.
 - 2022-04-08: [https://arxiv.org/abs/1908.03531 Minimax designs] for long-term causal effects accepted to Biometrika, a top theoretical statistics journal.
