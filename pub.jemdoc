@@ -13,7 +13,7 @@ Hyunji Kim, Ahsan Pervaiz, Henry Hoffmann, Michael Carbin, *Yi Ding* \n
 
 *Publications*
 
-. Turaco: Complexity-Guided Data Sampling for Training Neural Surrogates of Programs \n
+. [https://arxiv.org/abs/2309.11726 Turaco: Complexity-Guided Data Sampling for Training Neural Surrogates of Programs] \n
 Alex Renda, *Yi Ding*, Michael Carbin \n
 *OOPSLA 2023*: The ACM SIGPLAN conference on Systems, Programming, Languages, and Applications. \n
 . [https://arxiv.org/abs/2202.12924 CAFQA: A Classical Simulation Bootstrap for Variational Quantum Algorithms] \n
